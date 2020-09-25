@@ -11,7 +11,7 @@ All the code in the Jupyter notebook is accompanied with explanations and commen
 One example is offered: monthly data is aggregated to yearly frequency and outputted in `.csv` format. Given the tidy data format, this 
 data set is very useful for creating pivot tables as well as dashboards in **Excel**, **Power BI** or any other similar software.
 
-A sample monthy and yearly output for 2019 is available for download. This is the log for 2019 data:  
+A sample yearly output for 2019 is available for download. This is the log for 2019 data:  
 API calls made: 2,892  
 Data download time:  2.64 hours  
 API call breakdown:  
