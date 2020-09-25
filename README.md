@@ -12,7 +12,7 @@ One example is offered: monthly data is aggregated to yearly frequency and outpu
 data set is very useful for creating pivot tables as well as dashboards in **Excel**, **Power BI** or any other similar software.
 
 A sample monthy and yearly output for 2019 is available for download. This is the log summary for 2019 data:  
-API calls made: 2,892 
+API calls made: 2,892  
 Data download time:  2.64 hours  
 API call breakdown:  
     200  --> 2,644  
